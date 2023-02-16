@@ -1,0 +1,20 @@
+{
+    "recette": [
+        {
+            "titre": "Produit à vitres",
+            "listeIngredients": "40 cl de vinaigre blanc, 10cl d'eau", 
+            "preparation": "Pour réaliser un produit à vitres, tout ce qu’il vous faut c’est 40 cl de vinaigre blanc, que vous mélangerez à 10 cl d’eau. Vous n’aurez plus qu’à vaporiser ce mélange sur vos vitres et passer un coup de chiffon ou de raclette." 
+           
+        },
+        {
+            "titre": "Lessive naturelle",
+            "listeIngredients": "3 litres d'eau, 150g de savon de Marseille en paillettes ou râpé, une poignée de cristaux de soude, quelques gouttes d'huiles essentielle pour l'odeur (facultatif)",
+            "preparation": "Faites bouillir l'eau, mettez dedans le savon de Marseille, Ajouter les cristaux de soude,et l'huile essentielle, laissez bien fondre le savon, lorsque c'est fait, mettez la lessive dans un bidon, avant qu'elle n'ait trop refroidi (mais attention à ce qu’elle ne soit pas brûlante),Il faudra compter environ 20 cl de lessive pour 1 machine. Veuillez à laisser un espace dans votre bidon pour pouvoir secouer votre lessive."
+        },
+        {
+            "titre": "Spray multi-usage",
+            "listeIngredients": "750 ml d'eau, 1 cuillère, une poignée de cristaux de soude, quelques gouttes d'huiles essentielle au choix",
+            "preparation": "Faites bouillir l'eau, mettez dedans le savon de Marseille en paillettes ou râpé, les cristaux de soude, l'huile essentielle, laissez bien fondre le savon, lorsque c'est fait, mettez la lessive dans un bidon, avant qu'elle n'ait trop refroidi. Pour cette recette, compter environ 20 cl de lessive pour 1 machine. Veuillez à laisser un espace dans votre bidon pour pouvoir secouer votre lessive."
+        }
+    ]
+}
